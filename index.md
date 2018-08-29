@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
-
+#Zhaolong Xie's first CS193 Lab!
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+1. CS193 is super cool!
+2. The insrtuctors are super cool!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
