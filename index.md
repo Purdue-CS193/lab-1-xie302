@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 # Zhaolong Xie's first CS193 Lab!
 ### Reasons I love CS193:
-1. CS193 is super cool!
-2. The insrtuctors are super cool!
+
+- CS193 is super cool!
+- The insrtuctors are super cool!
+
+
 
 ### Markdown
 
@@ -18,9 +21,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. CS193 is super cool!
-2. The insrtuctors are super cool!
-
+1. 
+2. 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
